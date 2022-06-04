@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 1,
+        "name": "marte",
+        "clime": "quente",
+        "terreno": "vazio"
+    },
+    {
+        "_id": 2,
+        "name": "terra",
+        "clime": "quentequentequente",
+        "terreno": "plano"
+    },
+    {
+        "name": "plutao",
+        "clima": "frio",
+        "terreno": "nao",
+        "_id": 4
+    }
+]
